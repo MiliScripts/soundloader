@@ -45,11 +45,11 @@ This Python script allows users to automatically download their latest liked son
 
 ### Watch the Demo Video
 
-[![SoundCloud Telegram Downloader Demo]](https://www.youtube.com/watch?v=TP-TIcdb_Vg)
+[!SoundCloud Telegram Downloader Demo](https://www.youtube.com/watch?v=TP-TIcdb_Vg)
 
 ### Try the Bot on Telegram
 
-[Click here to try the bot on Telegram](https://t.me/imilisong)
+[See hwo it works on my channel ](https://t.me/imilisong)
 
     
 
