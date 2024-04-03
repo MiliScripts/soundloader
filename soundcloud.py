@@ -174,7 +174,7 @@ async def check_and_download():
             
             thumb = d[-1]
             tm = await download_photo(thumb,"t.jpg")
-            await send_photo_and_caption_to_telegram(photo_path=photo,caption=d[0]+'\n@imilisong')
+            await send_photo_and_caption_to_telegram(photo_path=photo,caption=d[0]+'\n@YourchannelTag')
             await send_track_to_telegram(filename,tm,d[-2])
             
             
