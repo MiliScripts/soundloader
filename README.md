@@ -40,6 +40,19 @@ This Python script allows users to automatically download their latest liked son
     python soundcloud.py
     ```
 
+
+## Demo
+
+### Watch the Demo Video
+
+[![SoundCloud Telegram Downloader Demo](https://example.com/path/to/demo_thumbnail.jpg)](https://youtu.be/TP-TIcdb_Vg?feature=shared)
+
+### Try the Bot on Telegram
+
+[Click here to try the bot on Telegram](https://t.me/imilisong)
+
+    
+
 ## Usage
 
 1. Like a song on SoundCloud.
