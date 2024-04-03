@@ -14,7 +14,7 @@ This Python script allows users to automatically download their latest liked son
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/soundcloud-telegram-downloader.git
+    git clone https://github.com/MiliScripts/soundcloud_like_downloader.git
     ```
 
 2. Install the required dependencies:
@@ -24,18 +24,20 @@ This Python script allows users to automatically download their latest liked son
     ```
 
 3. Obtain necessary tokens and IDs:
-   - Obtain a SoundCloud API client ID by registering your application on the SoundCloud developer portal.
-   - Create a Telegram bot and obtain the bot token.
-   - Identify the chat ID of the Telegram channel or group where you want to share the songs.
-
-4. Update the configuration:
-   - Replace `client_id.txt` with your SoundCloud API client ID.
+   - Fill in your SoundCloud user ID, Telegram bot token, Telegram channel ID, and initialize the `last_song` variable to store the last liked song. You can find your SoundCloud user ID by going to your profile and copying the numerical part of the URL. For the Telegram bot token and channel ID, you need to create a bot on Telegram and get the token, as well as the ID of the channel where you want to share the songs.
+   
+   Example:
+   ```python
+   last_song = "" # stores last Likes Song / Updates and Compares
+   bot_token = 'YOUR_TELEGRAM_BOT_TOKEN' # --- Your BOT Token here
+   chat_id   = 'YOUR_TELEGRAM_CHANNEL_ID' # --- Your Channel ID here
+   user_id = "YOUR_SOUNDCLOUD_USER_ID"   # --- Your Soundcloud User Id here
    - Update `bot_token` and `chat_id` variables in the script with your Telegram bot token and chat ID, respectively.
 
 5. Run the script:
 
     ```bash
-    python soundcloud_telegram_downloader.py
+    python soundcloud.py
     ```
 
 ## Usage
