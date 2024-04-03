@@ -1,0 +1,4 @@
+aiohttp
+asyncio
+youtube_dl
+fake_useragent
