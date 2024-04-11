@@ -1,3 +1,5 @@
+![meow](logo.jpg)
+
 # SoundCloud Liked Songs Downloader & Telegram Sharer
 
 This Python script allows users to automatically download their latest liked songs from SoundCloud and share them to their Telegram channel. It provides a seamless integration between SoundCloud's API, YouTube DL for song extraction, and Telegram's API for sharing.
