@@ -45,7 +45,7 @@ This Python script allows users to automatically download their latest liked son
 
 ### Watch the Demo Video
 
-[!SoundCloud Telegram Downloader Demo](vid.mp4)
+[SoundCloud Telegram Downloader Demo](https://www.youtube.com/watch?v=TP-TIcdb_Vg)
 
 ### Try the Bot on Telegram
 
