@@ -34,7 +34,7 @@ This Python script allows users to automatically download their latest liked son
    bot_token = 'YOUR_TELEGRAM_BOT_TOKEN' # --- Your BOT Token here
    chat_id   = 'YOUR_TELEGRAM_CHANNEL_ID' # --- Your Channel ID here
    user_id = "YOUR_SOUNDCLOUD_USER_ID"   # --- Your Soundcloud User Id here
-   - Update `bot_token` and `chat_id` variables in the script with your Telegram bot token and chat ID, respectively.
+  # Update `bot_token` and `chat_id` variables in the script with your Telegram bot token and chat ID, respectively.
 
 5. Run the script:
 
