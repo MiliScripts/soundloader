@@ -16,7 +16,7 @@ This Python script allows users to automatically download their latest liked son
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/MiliScripts/soundcloud_like_downloader.git
+    git clone https://github.com/MiliScripts/soundloader.git
     ```
 
 2. Install the required dependencies:
